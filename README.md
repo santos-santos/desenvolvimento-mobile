@@ -7,3 +7,11 @@ Link privado do projeto:https://www.figma.com/design/l6QqzP2mRKmdpeXlLKV2wx/Deli
 ## TO DO
 
 Adicionar imagens do projeto
+### Auto avaliação do meu projeto na UC 12
+### 1. O que aprendi.
+Algumas nocões de linguagem de marcação como html
+e estilização como css
+
+### 2. o que foi útil.
+Conhecimento para futuramente utilizar como 
+programador
