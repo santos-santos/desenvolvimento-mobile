@@ -12,6 +12,6 @@ Adicionar imagens do projeto
 Algumas nocões de linguagem de marcação como tags em html
 e estilização como css
 
-### 2. o que mais foi útil.
+### 2. O que mais foi útil.
 Conhecimento para futuramente utilizar como 
 programador
